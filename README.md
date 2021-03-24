@@ -1,2 +1,2 @@
 # sort-files
-##Sorts all the files in current directory.
+#Sorts all the files in current directory.
