@@ -1,13 +1,12 @@
 import os
 import shutil
-#Part 1
+#Part 1, Just Making the needed Folders.
 a=os.listdir('.')
 b='.'
 lst=[]
 for i in a:
 	if b in i:
 		lst.append(i)
-dot=[]
 extensions=[]
 for i in lst:
 	b=i.split('.')
@@ -60,7 +59,7 @@ if '.apk' in extensions:
 	except:
 		pass
 	
-#Part 2
+#Part 2, Sorting all the files into appropriate Folders.
 for i in lst:
 	#Photos
 	if i[-4:]=='.png' or i[-4:]=='.jpg' or i[-5:]=='.tiff':
