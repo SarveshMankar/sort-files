@@ -1,7 +1,7 @@
 # sort-files
 ### Sorts all the files in current directory.
 ---
-Usually we don't keep our Files properly in the sorted way. 
+#####Usually we don't keep our Files properly in the sorted way. 
 There are many images, videos, audio files, programming files, datasets in the same folder and to find a particular file becomes clumsy.
 Manually adjusted all the files is also tedious and people like me just wanted the things to be automated.
 So I have made a program that just sorts all the files.
