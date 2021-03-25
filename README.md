@@ -1,5 +1,5 @@
 # sort-files
-## Sorts all the files in current directory.
+## Sorts all the files in current directory. ##
 ---
  Usually we don't keep our Files properly in the sorted way. 
  There are many images, videos, audio files, programming files, datasets in the same folder and to find a particular file becomes clumsy.
