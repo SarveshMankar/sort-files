@@ -26,6 +26,8 @@
 
 > For any changes
 
- If I have missed out any file extension, so just go to the file *sort_files.py* and in *Part 3* just add the extension in the repective list.
+ If I have missed out any file extension, so just go to the file *sort_files.py* and in *Part 3* just add the extension in the respective list.
+ 
+ Running it will make the Work.
  
  >Thank You!
