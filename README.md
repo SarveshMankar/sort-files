@@ -21,4 +21,11 @@
  > To Sort Files
  
  Running it by command *python sort_files.py* will sort all the things.
+ 
  And then you are good to go and finding the files is much easier.
+
+> For any changes
+
+ If I have missed out any file extension, so just go to the file *sort_files.py* and in *Part 3* just add the extension in the repective list.
+ 
+ >Thank You!
