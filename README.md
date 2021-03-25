@@ -23,5 +23,7 @@
  
  pip install -r requirements.txt
  
+ > To Sort Files
+ 
  Running it by command *python sort_files.py* will sort all the things.
  And then you are good to go and finding the files is much easier.
