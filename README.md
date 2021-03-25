@@ -28,6 +28,8 @@
 
  If I have missed out any file extension, so just go to the file *sort_files.py* and in *Part 2* just add the extension in the respective list.
  
+ I tried my best to make the file readable and I'm sure it will be easy for you guys to add any extension in it.
+ 
  Running it will make the Work.
  
  >Thank You!
