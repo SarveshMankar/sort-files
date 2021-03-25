@@ -1,5 +1,6 @@
 import os
 import shutil
+
 #Part 1, Getting all the Files
 a=os.listdir('.')
 b='.'
