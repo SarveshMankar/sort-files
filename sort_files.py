@@ -23,6 +23,7 @@ Data_Sets=['.csv','.db','.psql','.data','.xlsx','.sqlite','.accdb','.sql']
 Compressed_and_Installer=['.zip','.deb','.rpm','.gz','.tar','.xz','.rar','.arj','.sit','.sitx','.7z','.exe','.msi','.ttf','.otf']
 Torrent_Files=['.torrent']
 Mobile_Apps=['.apk','.tpk','.ipa']
+ISO_Files=['.iso']
 
 #Part 3, Creating Required Folders
 c=any(item in Photos for item in extensions)
@@ -88,6 +89,13 @@ if c:
 	except:
 		pass
 
+c=any(item in ISO_Files for item in extensions)
+if c:
+	try:
+		os.mkdir("ISO_Files")
+	except:
+		pass
+
 #Part 4, Sorting All the files
 for i in lst:
 	a=i.split('.')
@@ -144,6 +152,12 @@ for i in lst:
 	if m in Mobile_Apps:
 		try:
 			shutil.move(str(i),"Mobile_Apps")
+		except:
+			pass
+
+	if m in ISO_Files:
+		try:
+			shutil.move(str(i),"ISO_Files")
 		except:
 			pass
 
