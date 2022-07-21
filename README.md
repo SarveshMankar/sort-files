@@ -5,9 +5,9 @@
  
  There are many images, videos, audio files, programming files, datasets in the same folder and to find a particular file becomes clumsy.
  
- Manually adjusting all the files is too tedious and people like me just want the things to be automated.
+ Manually sorting all of them is a time taking task and tedious too. People like me just want things to be automated.
  
- So I have made a program that just sorts all the files.
+ So this program just sorts all the files and puts the file into appropriate Folders.
  
 ---
 > Putting the file in the required Folder
