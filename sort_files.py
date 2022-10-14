@@ -13,7 +13,7 @@ for i in lst:
 	extensions.append(str('.')+str(b[int(len(b))-1]).lower())
 
 #Part 2, List of all the Extensions
-Photos=['.png','.jpeg','.jpg','.tiff','.jfif','.ico']
+Photos=['.png','.jpeg','.jpg','.tiff','.jfif','.ico','.svg']
 Programming=['.css','.py','.java','.php','.html','.c','.cpp','.ipynb','.less','.asm' ,'.json','.joblib','.js','.asm','.xml','.xhtml','.kt',
 			'kts','ktm','.swift']
 Text=['.odt','.docx','.doc','.txt','.pdf','.wpd','.rtf','.ods','.odp','.ppt','.pptx','.url']
