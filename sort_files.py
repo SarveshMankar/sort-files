@@ -16,7 +16,7 @@ for i in lst:
 Photos=['.png','.jpeg','.jpg','.tiff','.jfif','.ico','.svg']
 Programming=['.css','.py','.java','.php','.html','.c','.cpp','.ipynb','.less','.asm' ,'.json','.joblib','.js','.asm','.xml','.xhtml','.kt',
 			'kts','ktm','.swift']
-Text=['.odt','.docx','.doc','.txt','.pdf','.wpd','.rtf','.ods','.odp','.ppt','.pptx','.url']
+Text=['.odt','.docx','.doc','.txt','.pdf','.wpd','.rtf','.ods','.odp','.ppt','.pptx','.url','.md']
 Music=['.mp3','.aac','.wav','.flac','.ram','.wma','.mpa','.ra']
 Videos=['.mp4','.webm','.gif','.m4p','.mp2','.mov']
 Data_Sets=['.csv','.db','.psql','.data','.xlsx','.sqlite','.accdb','.sql']
