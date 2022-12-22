@@ -13,10 +13,10 @@ for i in lst:
 	extensions.append(str('.')+str(b[int(len(b))-1]).lower())
 
 #Part 2, List of all the Extensions
-Photos=['.png','.jpeg','.jpg','.tiff','.jfif','.ico','.svg']
+Photos=['.png','.jpeg','.jpg','.tiff','.jfif','.ico','.svg','.heic']
 Programming=['.css','.py','.java','.php','.html','.c','.cpp','.ipynb','.less','.asm' ,'.json','.joblib','.js','.asm','.xml','.xhtml','.kt',
 			'kts','ktm','.swift']
-Text=['.odt','.docx','.doc','.txt','.pdf','.wpd','.rtf','.ods','.odp','.ppt','.pptx','.url','.md']
+Text=['.odt','.docx','.doc','.txt','.pdf','.wpd','.rtf','.ods','.odp','.ppt','.pptx','.url','.md','.tex']
 Music=['.mp3','.aac','.wav','.flac','.ram','.wma','.mpa','.ra']
 Videos=['.mp4','.webm','.gif','.m4p','.mp2','.mov']
 Data_Sets=['.csv','.db','.psql','.data','.xlsx','.sqlite','.accdb','.sql']
